@@ -1,0 +1,6 @@
+Model,Submission file,5-fold CV acc,Repeated CV acc,Kaggle public score
+Logistic Regression,submission_logistic_regression.csv,0.8943,0.8934,0.903
+Random Forest,submission_random_forest.csv,0.8848,0.884,0.892
+"Naive Bayes (PCA-whitened, tuned)",submission_naive_bayes.csv,0.8628,0.8634,0.868
+Decision Tree,submission_decision_tree.csv,0.8641,0.8606,0.866
+Naive Bayes (plain Gaussian),submission_naive_bayes_plain.csv,0.8475,,0.847

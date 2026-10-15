@@ -1,0 +1,1 @@
+{"model": "Logistic Regression", "cv_acc": 0.8942666666666665, "repeated_cv": 0.8933555555555555, "repeated_cv_std": 0.008263231066254952, "macro_f1": 0.8945952964874303, "train_acc": 0.8953333333333333, "params": "{'logisticregression__C': 0.3}"}

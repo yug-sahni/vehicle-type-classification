@@ -1,0 +1,1 @@
+{"model": "Naive Bayes", "cv_acc": 0.8628, "repeated_cv": 0.8634222222222222, "repeated_cv_std": 0.008719044006946048, "macro_f1": 0.8625408902669353, "train_acc": 0.8656, "params": "{'nb__var_smoothing': np.float64(1.0), 'prep': Pipeline(steps=[('standardscaler', StandardScaler()),\n                ('pca', PCA(random_state=42, whiten=True))])}"}

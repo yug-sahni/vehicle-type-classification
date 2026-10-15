@@ -1,0 +1,1 @@
+{"model": "Decision Tree", "cv_acc": 0.8641333333333334, "repeated_cv": 0.8606222222222223, "repeated_cv_std": 0.008980527631671183, "macro_f1": 0.8648018805433292, "train_acc": 0.8894666666666666, "params": "{'ccp_alpha': 0.001, 'criterion': 'entropy', 'max_depth': 7, 'min_samples_leaf': 5}"}
