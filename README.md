@@ -1,6 +1,6 @@
 # Vehicle Type Classification — ML Course Project I (Classification)
 
-**Yug Sahni** · M.Tech CSE, IIIT Bangalore · Kaggle competition: *Vehicle Type Classification*
+
 
 Predict `vehicle_class` (0 / 1 / 2) from 20 numeric vehicle specifications.
 Models used (as taught in the course): Logistic Regression, Decision Tree, Random Forest, Naive Bayes.
